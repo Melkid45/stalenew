@@ -51,7 +51,7 @@
     max-width: max-content;
     z-index: 1;
 }
-.splide__arrows{
+.main__body .splide__arrows{
     position: absolute;
     bottom: 64px;
     right: 302px;
@@ -59,7 +59,7 @@
     align-items: center;
     gap: 14px;
 }
-.splide__arrow{
+.main__body .splide__arrow{
     position: static;
     transform: translateY(0%);
     width: 71px;
@@ -70,7 +70,7 @@
     opacity: 1 !important;
     border-radius: 0%;
 }
-.splide__arrow svg{
+.main__body .splide__arrow svg{
     fill: none;
     width: 16px;
     height: 29px;
@@ -1510,7 +1510,7 @@
         max-width: max-content;
         z-index: 1;
     }
-    .splide__arrows{
+    .main__body .splide__arrows{
         position: absolute;
         bottom: 64rem;
         right: 302rem;
@@ -1518,7 +1518,7 @@
         align-items: center;
         gap: 14rem;
     }
-    .splide__arrow{
+    .main__body .splide__arrow{
         position: static;
         transform: translateY(0%);
         width: 71rem;
@@ -1529,7 +1529,7 @@
         opacity: 1 !important;
         border-radius: 0%;
     }
-    .splide__arrow svg{
+    .main__body .splide__arrow svg{
         fill: none;
         width: 16rem;
         height: 29rem;
@@ -2975,7 +2975,7 @@
         max-width: max-content;
         z-index: 1;
     }
-    .splide__arrows{
+    .main__body .splide__arrows{
         position: absolute;
         bottom: 20rem;
         right: 10rem;
@@ -2983,7 +2983,7 @@
         align-items: center;
         gap: 14rem;
     }
-    .splide__arrow{
+    .main__body .splide__arrow{
         position: static;
         transform: translateY(0%);
         width: 35rem;
@@ -2994,7 +2994,7 @@
         opacity: 1 !important;
         border-radius: 0%;
     }
-    .splide__arrow svg{
+    .main__body .splide__arrow svg{
         fill: none;
         width: 8rem;
         height: 15rem;
