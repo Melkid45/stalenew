@@ -4914,11 +4914,12 @@
     max-width: max-content;
     margin-top: 40rem;
 }
+
+/*End New*/
+}
 .desk__text{
     color: #1D1D1D !important;
 }
 .desk__bg{
     background: #090628 !important;
-}
-/*End New*/
 }
